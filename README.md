@@ -1,1 +1,1 @@
-"# auriculoterapia-app" 
+"# auriculoterapia.app" 
